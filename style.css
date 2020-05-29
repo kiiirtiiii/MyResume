@@ -22,7 +22,7 @@ body{
 #body-header{
 	height: 68vh;
 	opacity: 0.8;
-	background-image: url(images/cover_picture.jpg);
+	background-image: url(images/cover_picture.JPG);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;	
