@@ -1,3 +1,3 @@
 # MyResume
 
-https://kirtisharma05.github.io/MyResume/
+https://kiiirtiiii.github.io/MyResume/
